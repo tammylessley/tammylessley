@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tammylessley - the Bob Ross of Data
 - 👀 I’m interested in data science, business intelligence (BI), data analytics
-- 🌱 I’m currently learning data science at Utica College, earning my MSDS
+- 🌱 I recently earned my Masters in Data Science from Utica University
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tammy-lessley-3656987)
 
 <!---
