@@ -1,0 +1,1069 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Copy of Utica Data 2022 -Tab 4 - TAL.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Package Size Name" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="Material Id" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="Brand" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="ProdCategory" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="SoldToCorporate Entity" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="SoldToBanner" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="SoldToRegional" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="SoldToPartner" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/5/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/12/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/19/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/26/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/2/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/9/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/16/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/23/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/2/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/9/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/16/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/23/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/30/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/6/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/13/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/20/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/27/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/4/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/11/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/18/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/25/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/1/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/8/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/15/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/22/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/29/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/6/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/13/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/20/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/27/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/3/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/10/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/17/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/24/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/31/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/7/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/14/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/21/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/28/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/5/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/12/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/19/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/26/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/2/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/9/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/16/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/23/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/30/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/7/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/14/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/21/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/28/2019" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/4/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/11/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/18/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/25/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/1/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/8/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/15/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/22/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/29/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/7/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/14/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/21/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/28/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/4/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/11/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/18/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/25/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/2/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/9/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/16/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/23/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/30/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/6/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/13/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/20/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/27/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/4/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/11/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/18/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/25/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/1/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/8/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/15/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/22/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/29/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/5/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/12/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/19/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/26/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/3/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/10/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/17/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/24/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/31/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/7/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/14/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/21/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/28/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/5/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/12/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/19/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/26/2020" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/2/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/9/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/16/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/23/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/30/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/6/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/13/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/20/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/27/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/6/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/13/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/20/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/27/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/3/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/10/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/17/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/24/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/1/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/8/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/15/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/22/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/29/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/5/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/12/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/19/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/26/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/3/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/10/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/17/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/24/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="7/31/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/7/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/14/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/21/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="8/28/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/4/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/11/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/18/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="9/25/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/2/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/9/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/16/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/23/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="10/30/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/6/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/13/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/20/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="11/27/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/4/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/11/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/18/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="12/25/2021" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/1/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/8/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/15/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/22/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="1/29/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/5/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/12/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/19/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="2/26/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/5/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/12/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="3/26/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/2/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/9/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/16/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/23/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="4/30/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/7/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/14/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/21/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="5/28/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/4/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/11/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/18/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+            <Field name="6/25/2022" size="254" source="File: C:\Users\tamle\Desktop\Utica\5 - MSDS Summer 2022\DSC-680 Capstone\Copy of Utica Data 2022 -Tab 4 - TAL.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="162" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Package Size Name" />
+            <Field field="Material Id" />
+            <Field field="Brand" />
+            <Field field="ProdCategory" />
+            <Field field="SoldToCorporate Entity" />
+            <Field field="SoldToBanner" />
+            <Field field="SoldToRegional" />
+            <Field field="SoldToPartner" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Package Size Name" selected="False" />
+            <Field field="Material Id" selected="False" />
+            <Field field="Brand" selected="False" />
+            <Field field="ProdCategory" selected="False" />
+            <Field field="SoldToCorporate Entity" selected="False" />
+            <Field field="SoldToBanner" selected="False" />
+            <Field field="SoldToRegional" selected="False" />
+            <Field field="SoldToPartner" selected="False" />
+            <Field field="1/5/2019" selected="True" />
+            <Field field="1/12/2019" selected="True" />
+            <Field field="1/19/2019" selected="True" />
+            <Field field="1/26/2019" selected="True" />
+            <Field field="2/2/2019" selected="True" />
+            <Field field="2/9/2019" selected="True" />
+            <Field field="2/16/2019" selected="True" />
+            <Field field="2/23/2019" selected="True" />
+            <Field field="3/2/2019" selected="True" />
+            <Field field="3/9/2019" selected="True" />
+            <Field field="3/16/2019" selected="True" />
+            <Field field="3/23/2019" selected="True" />
+            <Field field="3/30/2019" selected="True" />
+            <Field field="4/6/2019" selected="True" />
+            <Field field="4/13/2019" selected="True" />
+            <Field field="4/20/2019" selected="True" />
+            <Field field="4/27/2019" selected="True" />
+            <Field field="5/4/2019" selected="True" />
+            <Field field="5/11/2019" selected="True" />
+            <Field field="5/18/2019" selected="True" />
+            <Field field="5/25/2019" selected="True" />
+            <Field field="6/1/2019" selected="True" />
+            <Field field="6/8/2019" selected="True" />
+            <Field field="6/15/2019" selected="True" />
+            <Field field="6/22/2019" selected="True" />
+            <Field field="6/29/2019" selected="True" />
+            <Field field="7/6/2019" selected="True" />
+            <Field field="7/13/2019" selected="True" />
+            <Field field="7/20/2019" selected="True" />
+            <Field field="7/27/2019" selected="True" />
+            <Field field="8/3/2019" selected="True" />
+            <Field field="8/10/2019" selected="True" />
+            <Field field="8/17/2019" selected="True" />
+            <Field field="8/24/2019" selected="True" />
+            <Field field="8/31/2019" selected="True" />
+            <Field field="9/7/2019" selected="True" />
+            <Field field="9/14/2019" selected="True" />
+            <Field field="9/21/2019" selected="True" />
+            <Field field="9/28/2019" selected="True" />
+            <Field field="10/5/2019" selected="True" />
+            <Field field="10/12/2019" selected="True" />
+            <Field field="10/19/2019" selected="True" />
+            <Field field="10/26/2019" selected="True" />
+            <Field field="11/2/2019" selected="True" />
+            <Field field="11/9/2019" selected="True" />
+            <Field field="11/16/2019" selected="True" />
+            <Field field="11/23/2019" selected="True" />
+            <Field field="11/30/2019" selected="True" />
+            <Field field="12/7/2019" selected="True" />
+            <Field field="12/14/2019" selected="True" />
+            <Field field="12/21/2019" selected="True" />
+            <Field field="12/28/2019" selected="True" />
+            <Field field="1/4/2020" selected="True" />
+            <Field field="1/11/2020" selected="True" />
+            <Field field="1/18/2020" selected="True" />
+            <Field field="1/25/2020" selected="True" />
+            <Field field="2/1/2020" selected="True" />
+            <Field field="2/8/2020" selected="True" />
+            <Field field="2/15/2020" selected="True" />
+            <Field field="2/22/2020" selected="True" />
+            <Field field="2/29/2020" selected="True" />
+            <Field field="3/7/2020" selected="True" />
+            <Field field="3/14/2020" selected="True" />
+            <Field field="3/21/2020" selected="True" />
+            <Field field="3/28/2020" selected="True" />
+            <Field field="4/4/2020" selected="True" />
+            <Field field="4/11/2020" selected="True" />
+            <Field field="4/18/2020" selected="True" />
+            <Field field="4/25/2020" selected="True" />
+            <Field field="5/2/2020" selected="True" />
+            <Field field="5/9/2020" selected="True" />
+            <Field field="5/16/2020" selected="True" />
+            <Field field="5/23/2020" selected="True" />
+            <Field field="5/30/2020" selected="True" />
+            <Field field="6/6/2020" selected="True" />
+            <Field field="6/13/2020" selected="True" />
+            <Field field="6/20/2020" selected="True" />
+            <Field field="6/27/2020" selected="True" />
+            <Field field="7/4/2020" selected="True" />
+            <Field field="7/11/2020" selected="True" />
+            <Field field="7/18/2020" selected="True" />
+            <Field field="7/25/2020" selected="True" />
+            <Field field="8/1/2020" selected="True" />
+            <Field field="8/8/2020" selected="True" />
+            <Field field="8/15/2020" selected="True" />
+            <Field field="8/22/2020" selected="True" />
+            <Field field="8/29/2020" selected="True" />
+            <Field field="9/5/2020" selected="True" />
+            <Field field="9/12/2020" selected="True" />
+            <Field field="9/19/2020" selected="True" />
+            <Field field="9/26/2020" selected="True" />
+            <Field field="10/3/2020" selected="True" />
+            <Field field="10/10/2020" selected="True" />
+            <Field field="10/17/2020" selected="True" />
+            <Field field="10/24/2020" selected="True" />
+            <Field field="10/31/2020" selected="True" />
+            <Field field="11/7/2020" selected="True" />
+            <Field field="11/14/2020" selected="True" />
+            <Field field="11/21/2020" selected="True" />
+            <Field field="11/28/2020" selected="True" />
+            <Field field="12/5/2020" selected="True" />
+            <Field field="12/12/2020" selected="True" />
+            <Field field="12/19/2020" selected="True" />
+            <Field field="12/26/2020" selected="True" />
+            <Field field="1/2/2021" selected="True" />
+            <Field field="1/9/2021" selected="True" />
+            <Field field="1/16/2021" selected="True" />
+            <Field field="1/23/2021" selected="True" />
+            <Field field="1/30/2021" selected="True" />
+            <Field field="2/6/2021" selected="True" />
+            <Field field="2/13/2021" selected="True" />
+            <Field field="2/20/2021" selected="True" />
+            <Field field="2/27/2021" selected="True" />
+            <Field field="3/6/2021" selected="True" />
+            <Field field="3/13/2021" selected="True" />
+            <Field field="3/20/2021" selected="True" />
+            <Field field="3/27/2021" selected="True" />
+            <Field field="4/3/2021" selected="True" />
+            <Field field="4/10/2021" selected="True" />
+            <Field field="4/17/2021" selected="True" />
+            <Field field="4/24/2021" selected="True" />
+            <Field field="5/1/2021" selected="True" />
+            <Field field="5/8/2021" selected="True" />
+            <Field field="5/15/2021" selected="True" />
+            <Field field="5/22/2021" selected="True" />
+            <Field field="5/29/2021" selected="True" />
+            <Field field="6/5/2021" selected="True" />
+            <Field field="6/12/2021" selected="True" />
+            <Field field="6/19/2021" selected="True" />
+            <Field field="6/26/2021" selected="True" />
+            <Field field="7/3/2021" selected="True" />
+            <Field field="7/10/2021" selected="True" />
+            <Field field="7/17/2021" selected="True" />
+            <Field field="7/24/2021" selected="True" />
+            <Field field="7/31/2021" selected="True" />
+            <Field field="8/7/2021" selected="True" />
+            <Field field="8/14/2021" selected="True" />
+            <Field field="8/21/2021" selected="True" />
+            <Field field="8/28/2021" selected="True" />
+            <Field field="9/4/2021" selected="True" />
+            <Field field="9/11/2021" selected="True" />
+            <Field field="9/18/2021" selected="True" />
+            <Field field="9/25/2021" selected="True" />
+            <Field field="10/2/2021" selected="True" />
+            <Field field="10/9/2021" selected="True" />
+            <Field field="10/16/2021" selected="True" />
+            <Field field="10/23/2021" selected="True" />
+            <Field field="10/30/2021" selected="True" />
+            <Field field="11/6/2021" selected="True" />
+            <Field field="11/13/2021" selected="True" />
+            <Field field="11/20/2021" selected="True" />
+            <Field field="11/27/2021" selected="True" />
+            <Field field="12/4/2021" selected="True" />
+            <Field field="12/11/2021" selected="True" />
+            <Field field="12/18/2021" selected="True" />
+            <Field field="12/25/2021" selected="True" />
+            <Field field="1/1/2022" selected="True" />
+            <Field field="1/8/2022" selected="True" />
+            <Field field="1/15/2022" selected="True" />
+            <Field field="1/22/2022" selected="True" />
+            <Field field="1/29/2022" selected="True" />
+            <Field field="2/5/2022" selected="True" />
+            <Field field="2/12/2022" selected="True" />
+            <Field field="2/19/2022" selected="True" />
+            <Field field="2/26/2022" selected="True" />
+            <Field field="3/5/2022" selected="True" />
+            <Field field="3/12/2022" selected="True" />
+            <Field field="3/26/2022" selected="True" />
+            <Field field="4/2/2022" selected="True" />
+            <Field field="4/9/2022" selected="True" />
+            <Field field="4/16/2022" selected="True" />
+            <Field field="4/23/2022" selected="True" />
+            <Field field="4/30/2022" selected="True" />
+            <Field field="5/7/2022" selected="True" />
+            <Field field="5/14/2022" selected="True" />
+            <Field field="5/21/2022" selected="True" />
+            <Field field="5/28/2022" selected="True" />
+            <Field field="6/4/2022" selected="True" />
+            <Field field="6/11/2022" selected="True" />
+            <Field field="6/18/2022" selected="True" />
+            <Field field="6/25/2022" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Transpose</Name>
+          <DefaultAnnotationText>Transpose</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="234" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Package Size Name" selected="True" rename="PackageSizeName" />
+            <SelectField field="Material Id" selected="True" rename="MaterialId" />
+            <SelectField field="Name" selected="True" rename="Date" type="V_WString" size="10" />
+            <SelectField field="Value" selected="True" rename="UnitsSold" type="FixedDecimal" size="100.4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Date and UnitsSold Fields</Name>
+          <AnnotationText>Date and UnitsSold Fields</AnnotationText>
+          <DefaultAnnotationText>Date and UnitsSold Fields</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="318" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>Date</InputFieldName>
+          <Language>English</Language>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>DateDate</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Convert String to Date</Name>
+          <DefaultAnnotationText>Convert String to Date</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="738" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="DateDate" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Sort</Name>
+          <AnnotationText>Sort</AnnotationText>
+          <DefaultAnnotationText>DateDate - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="810" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>UnitsSold</UpdateField_Name>
+          <CreateField_Name>MovingAverage</CreateField_Name>
+          <CreateField_Type>FixedDecimal</CreateField_Type>
+          <CreateField_Size>100.4</CreateField_Size>
+          <OtherRows>Nearest</OtherRows>
+          <NumRows value="1" />
+          <Expression>( (
+
++ [Row-1:UnitsSold] 
++ [Row+1:UnitsSold]
+
+) / 2 )</Expression>
+          <GroupByFields>
+            <Field field="DateDate" />
+          </GroupByFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name><![CDATA[Moving Average ]]></Name>
+          <AnnotationText>Moving Average</AnnotationText>
+          <DefaultAnnotationText>( (
+
++ [Row-1:UnitsSold] 
++ [Row+1:UnitsSold]
+
+) / 2 )</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="654" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="DateDate" action="GroupBy" rename="DateDate" />
+            <SummarizeField field="UnitsSold" action="Sum" rename="UnitsSold" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Summarize by Date and Corp</Name>
+          <AnnotationText>Summarize by Date and Corp</AnnotationText>
+          <DefaultAnnotationText>Summarize by Date and Corp</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings>
+        <Position x="426" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"PackageSizeName","MaterialId","Brand","ProdCategory","SoldToCorporate Entity","SoldToBanner","SoldToRegional","SoldToPartner","Date","UnitsSold","DateDate"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Fill Nulls with 0</Name>
+          <AnnotationText>Fill Nulls with 0</AnnotationText>
+          <DefaultAnnotationText>Fill Nulls with 0</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="894" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\tamle\AppData\Local\Temp\Engine_5796_727fa2765381ce449ac6665e41cb3608_\Engine_5796_149c7ba6414c304bbc7277e4bac4c602~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1062" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\tamle\AppData\Local\Temp\Engine_5796_727fa2765381ce449ac6665e41cb3608_\Engine_5796_1e3d01516260be47b1a0491ef20bb2e9~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1002" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\tamle\AppData\Local\Temp\Engine_5796_727fa2765381ce449ac6665e41cb3608_\Engine_5796_4c17bc8f17dd894285f8baf42f12678a~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings>
+        <Position x="1062" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="forecast">ets_forecast</Value>
+          <Value name="large_conf">95</Value>
+          <Value name="small_conf">90</Value>
+          <Value name="horizon">6</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.50</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Period" source="R-DATA:" type="Double" />
+            <Field name="Sub_Period" source="R-DATA:" type="Int32" />
+            <Field name="ets_forecast" source="R-DATA:" type="Double" />
+            <Field name="ets_forecast_high_95" source="R-DATA:" type="Double" />
+            <Field name="ets_forecast_high_90" source="R-DATA:" type="Double" />
+            <Field name="ets_forecast_low_90" source="R-DATA:" type="Double" />
+            <Field name="ets_forecast_low_95" source="R-DATA:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Interactive Viz">
+          <RecordInfo>
+            <Field name="Text" size="2147483647" source="Report:Text:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Report">
+          <RecordInfo>
+            <Field name="Report" size="1073741823" source="Report: (Multiple Sources)" type="V_WString" />
+            <Field name="Desc" size="64" source="Formula: (Multiple Sources)" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\TS_Forecast.yxmc" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings>
+        <Position x="930" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="mod_name">ets_min</Value>
+          <Value name="target_field">UnitsSold</Value>
+          <Value name="freq_hourly">False</Value>
+          <Value name="freq_daily">False</Value>
+          <Value name="freq_weekdays">False</Value>
+          <Value name="freq_weekly">True</Value>
+          <Value name="freq_monthly">False</Value>
+          <Value name="freq_quarterly">False</Value>
+          <Value name="freq_annually">False</Value>
+          <Value name="freq_other">False</Value>
+          <Value name="error_auto">True</Value>
+          <Value name="error_add">False</Value>
+          <Value name="error_mult">False</Value>
+          <Value name="trend_type_auto">True</Value>
+          <Value name="trend_type_add">False</Value>
+          <Value name="trend_type_mult">False</Value>
+          <Value name="trend_type_none">False</Value>
+          <Value name="trend_damp_auto">True</Value>
+          <Value name="trend_damp_yes">False</Value>
+          <Value name="trend_damp_no">False</Value>
+          <Value name="seas_auto">True</Value>
+          <Value name="seas_add">False</Value>
+          <Value name="seas_mult">False</Value>
+          <Value name="seas_none">False</Value>
+          <Value name="ic_auto">True</Value>
+          <Value name="ic_aic">False</Value>
+          <Value name="ic_aicc">False</Value>
+          <Value name="ic_bic">False</Value>
+          <Value name="box_cox">False</Value>
+          <Value name="lambda">0.00</Value>
+          <Value name="series_start">True</Value>
+          <Value name="start_year">2019</Value>
+          <Value name="start_month_qtr">1</Value>
+          <Value name="forecast_periods">6</Value>
+          <Value name="alteryx.week.US">True</Value>
+          <Value name="alteryx.week.UK">False</Value>
+          <Value name="alteryx.week.ISO8601">False</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.50</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\ETS.yxmc" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1146" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\tamle\AppData\Local\Temp\Engine_5796_727fa2765381ce449ac6665e41cb3608_\Engine_5796_00f16008216c32408cbf9b399b48bb3e~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1182" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\tamle\AppData\Local\Temp\Engine_5796_727fa2765381ce449ac6665e41cb3608_\Engine_5796_af2b373b48f2034190077ff6dfeb1a6d~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1134" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\tamle\AppData\Local\Temp\Engine_5796_727fa2765381ce449ac6665e41cb3608_\Engine_5796_8c2511fbecc95c409755d9d62f1b8338~.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="522" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>SoldToCorporate Entity</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-08-10 11:49:44</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>SC_1147</Operand>
+              <StartDate>2022-08-10 11:49:44</StartDate>
+              <EndDate>2022-08-10 11:49:44</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[SoldToCorporate Entity] = "SC_1147"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="618" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>MaterialId</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-08-11 13:28:47</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2022-08-11 13:28:47</StartDate>
+              <EndDate>2022-08-11 13:28:47</EndDate>
+              <Operand>M_129</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[MaterialId] = "M_129"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="726" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&lt;</Operator>
+            <Field>DateDate</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-08-11 15:47:14</PeriodDate>
+              <PeriodType>days</PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>2022-06-01</Operand>
+              <StartDate>2022-08-11 15:47:14</StartDate>
+              <EndDate>2022-08-11 15:47:14</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[DateDate] &lt; "2022-06-01"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="28" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output26" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Report" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Interactive Viz" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Interactive" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Report" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="True" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="True" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="True" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Tab 4 Data - Filled in Nulls - ETS Model - min needed</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="ef1649ec-2d6a-4b55-a1b1-7adb2af1fbbb" />
+      <Telemetry>
+        <PreviousWorkflowId value="b9031360-b60c-42d4-a833-9955850420c4" />
+        <OriginWorkflowId value="8d9d19e3-aa17-499f-8233-81b5e37ff83f" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
